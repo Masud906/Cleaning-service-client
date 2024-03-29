@@ -1,0 +1,403 @@
+[
+    {
+      "_id": "642c155b2c4774f05c36eeaa",
+      "name": "Sparkling Homes",
+      "details": "Professional home cleaning service. We make your home shine!",
+      "image": "https://i.ibb.co/s6ZNJHh/home-c1.jpg",
+      "category": "Home_cleaning",
+      "price": 50.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eeb9",
+      "name": "Furniture Fixers",
+      "details": "Assembly and repair of all types of furniture.",
+      "image": "https://i.ibb.co/9Zrhykq/portrait-man-cleaning-his-house.jpg",
+      "category": "furniture_assembly",
+      "price": 35.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee7c",
+      "name": "Handy Help",
+      "details": "General handyman services for your household needs.",
+      "image": "https://i.ibb.co/S6hBBqJ/front-view-woman-restoring-wooden-furniture.jpg",
+      "category": "Handyman_service",
+      "price": 45.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee88",
+      "name": "Office Oasis",
+      "details": "Thorough cleaning for your office space, creating a clean and productive environment.",
+      "image": "https://i.ibb.co/JH5VspX/professional-cleaning-service-person-using-vacuum-cleaner-office-1.jpg",
+      "category": "office_cleaning",
+      "price": 60.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee7a",
+      "name": "Cool Air Cleaners",
+      "details": "Professional AC cleaning service to keep your air fresh and healthy.",
+      "image": "https://i.ibb.co/cCkgpcJ/closeup-manual-worker-industrial-production-line-facility.jpg",
+      "category": "ac_cleaning",
+      "price": 55.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee94",
+      "name": "Tidy Toilets",
+      "details": "Thorough cleaning and sanitation of toilets and bathroom areas.",
+      "image": "https://i.ibb.co/4gtg6K1/woman-cleaning-sink-bathroom.jpg",
+      "category": "Toilet_cleaning",
+      "price": 40.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee9e",
+      "name": "Septic Savior",
+      "details": "Professional septic tank cleaning service to ensure proper functioning.",
+      "image": "https://example.com/septic-savior.jpg",
+      "category": "septic_tank_cleaning",
+      "price": 120.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eea6",
+      "name": "Fresh Home",
+      "details": "We provide thorough home cleaning services using eco-friendly products.",
+      "image": "https://i.ibb.co/khL13Ky/home-c2.jpg",
+      "category": "Home_cleaning",
+      "price": 55.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eeaf",
+      "name": "Furniture Masters",
+      "details": "Experts in assembling and repairing all types of furniture.",
+      "image": "https://i.ibb.co/MsSkzZV/man-is-tired-from-cleaning.jpg",
+      "category": "furniture_assembly",
+      "price": 40.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee89",
+      "name": "Fix-It Fast",
+      "details": "Quick and efficient handyman services for all your needs.",
+      "image": "https://i.ibb.co/Hrgv8Wp/man-doing-professional-home-cleaning-service-1.jpg",
+      "category": "Handyman_service",
+      "price": 50.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee8a",
+      "name": "Clean Sweep Office",
+      "details": "We provide comprehensive cleaning services for offices of all sizes.",
+      "image": "https://i.ibb.co/hFtFsCQ/professional-cleaning-service-people-working-together-office-1.jpg",
+      "category": "office_cleaning",
+      "price": 70.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee96",
+      "name": "Air Care Experts",
+      "details": "Professional cleaning and maintenance for your air conditioning units.",
+      "image": "https://i.ibb.co/YhJJQnr/friends-party-with-delicious-pizza.jpg",
+      "category": "ac_cleaning",
+      "price": 60.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee81",
+      "name": "Bathroom Beautifiers",
+      "details": "Specialized in cleaning and disinfecting bathrooms to perfection.",
+      "image": "https://i.ibb.co/fCNH0bC/white-toilet-seat.jpg",
+      "category": "Toilet_cleaning",
+      "price": 45.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee84",
+      "name": "Septic Solutions",
+      "details": "Experts in septic tank cleaning and maintenance.",
+      "image": "https://example.com/septic-solutions.jpg",
+      "category": "septic_tank_cleaning",
+      "price": 130.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eea4",
+      "name": "Eco-Friendly Cleaners",
+      "details": "Environmentally conscious home cleaning services for a healthier home.",
+      "image": "https://i.ibb.co/wcccY06/home-c3.jpg",
+      "category": "Home_cleaning",
+      "price": 60.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eea5",
+      "name": "Quick Assembly Pros",
+      "details": "Fast and efficient furniture assembly services.",
+      "image": "https://i.ibb.co/3WFhBqv/man-doing-professional-home-cleaning-service-1.jpg",
+      "category": "furniture_assembly",
+      "price": 35.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee87",
+      "name": "Handy Helpers",
+      "details": "Reliable handyman services for all your household tasks.",
+      "image": "https://i.ibb.co/25Vs9Wn/smiling-points-side-young-male-builder-wearing-uniform-holding-open-end-wrench.jpg",
+      "category": "Handyman_service",
+      "price": 48.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee83",
+      "name": "Corporate Cleaners",
+      "details": "Dedicated to providing pristine cleaning services for corporate environments.",
+      "image": "https://i.ibb.co/C2S8x9y/person-taking-care-office-cleaning-1.jpg",
+      "category": "office_cleaning",
+      "price": 65.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee7f",
+      "name": "AC Masters",
+      "details": "Specialists in AC cleaning and maintenance.",
+      "image": "https://i.ibb.co/t2YY37K/hvac-technician-working-capacitor-part-condensing-unit.jpg",
+      "category": "ac_cleaning",
+      "price": 70.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eea8",
+      "name": "Bathroom Genies",
+      "details": "Transforming bathrooms into sparkling clean spaces.",
+      "image": "https://i.ibb.co/SsKcnTG/male-plumber-working-fix-problems-client-s-house.jpg",
+      "category": "Toilet_cleaning",
+      "price": 42.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eeba",
+      "name": "Septic Savers",
+      "details": "Keeping your septic system in top condition with professional cleaning services.",
+      "image": "https://example.com/septic-savers.jpg",
+      "category": "septic_tank_cleaning",
+      "price": 125.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee80",
+      "name": "Green Clean Team",
+      "details": "Using eco-friendly products to deliver a thorough home cleaning service.",
+      "image": "https://i.ibb.co/WxH7cjG/home-4.jpg",
+      "category": "Home_cleaning",
+      "price": 58.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee90",
+      "name": "Furniture Fixation",
+      "details": "Expert repair and assembly services for all your furniture needs.",
+      "image": "https://i.ibb.co/bzxTDpq/man-cleaning-thoroughly.jpg",
+      "category": "furniture_assembly",
+      "price": 38.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eeb0",
+      "name": "Handy Hands",
+      "details": "Trustworthy handyman services for a variety of household tasks.",
+      "image": "https://i.ibb.co/sVh9GgP/dill-macain.jpg",
+      "category": "Handyman_service",
+      "price": 52.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee8d",
+      "name": "Office Wizards",
+      "details": "Bringing magic to office cleaning with our thorough and efficient services.",
+      "image": "https://i.ibb.co/jwy45w2/people-taking-care-office-cleaning-2.jpg",
+      "category": "office_cleaning",
+      "price": 75.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee8e",
+      "name": "AC Angels",
+      "details": "Heavenly cleaning and maintenance for your air conditioning units.",
+      "image": "https://i.ibb.co/cCkgpcJ/closeup-manual-worker-industrial-production-line-facility.jpg",
+      "category": "ac_cleaning",
+      "price": 65.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eea7",
+      "name": "Clean Commodes",
+      "details": "Making your toilets spotless and germ-free.",
+      "image": "https://i.ibb.co/XSdD890/faucet-sink.jpg",
+      "category": "Toilet_cleaning",
+      "price": 48.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee99",
+      "name": "Septic Specialists",
+      "details": "Experts in septic tank cleaning and maintenance.",
+      "image": "https://example.com/septic-specialists.jpg",
+      "category": "septic_tank_cleaning",
+      "price": 135.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eeb3",
+      "name": "Pure Clean Living",
+      "details": "Creating a clean and healthy living environment with our professional home cleaning services.",
+      "image": "https://i.ibb.co/vLwRXYK/home-c5.jpg",
+      "category": "Home_cleaning",
+      "price": 62.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eeb5",
+      "name": "Furniture Friends",
+      "details": "Your friendly neighborhood experts in furniture assembly and repair.",
+      "image": "https://i.ibb.co/HX2n06Y/front-view-woman-restoring-wooden-furniture.jpg",
+      "category": "furniture_assembly",
+      "price": 42.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eeb6",
+      "name": "Fix-It Force",
+      "details": "Powerful and efficient handyman services to tackle any task.",
+      "image": "https://i.ibb.co/1RpgV0q/builder-man-wearing-construction-uniform-safety-helmet-standing-with-wrenches-raised-hands-with-happ.jpg",
+      "category": "Handyman_service",
+      "price": 55.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eeb8",
+      "name": "Corporate Cleanups",
+      "details": "Professional cleaning services tailored for corporate environments.",
+      "image": "https://i.ibb.co/hD85cxv/full-shot-men-cleaning-office.jpg",
+      "category": "office_cleaning",
+      "price": 80.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee7e",
+      "name": "Cool Breeze Cleaners",
+      "details": "Bringing a breath of fresh air to your AC units with our cleaning services.",
+      "image": "https://example.com/cool-breeze-cleaners.jpg",
+      "category": "ac_extra",
+      "price": 68.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee8b",
+      "name": "Toilet Titans",
+      "details": "Conquering dirt and grime to leave your toilets sparkling clean.",
+      "image": "https://i.ibb.co/mCw869N/beautiful-composition-spa-bath-concept.jpg",
+      "category": "Toilet_cleaning",
+      "price": 50.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee8f",
+      "name": "Septic Stars",
+      "details": "Stars of septic tank cleaning, ensuring the smooth operation of your system.",
+      "image": "https://example.com/septic-stars.jpg",
+      "category": "septic_tank_cleaning",
+      "price": 140.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee91",
+      "name": "Green Earth Cleaners",
+      "details": "Cleaning your home with environmentally friendly products for a greener planet.",
+      "image": "https://i.ibb.co/Jtb3Qdd/home-c6.jpg",
+      "category": "Home_cleaning",
+      "price": 65.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee97",
+      "name": "Furniture Fanatics",
+      "details": "Passionate about furniture assembly and repair to make your life easier.",
+      "image": "https://i.ibb.co/4Kksjm5/couple-wrapping-sofa-plastic-foil-protection-while-they-are-renovate-living-room-home-renovation-con.jpg",
+      "category": "furniture_assembly",
+      "price": 45.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eea0",
+      "name": "Handy Heroes",
+      "details": "Coming to your rescue with our expert handyman services.",
+      "image": "https://i.ibb.co/Hrgv8Wp/man-doing-professional-home-cleaning-service-1.jpg",
+      "category": "Handyman_service",
+      "price": 60.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eea9",
+      "name": "Office Organizers",
+      "details": "Keeping your office space clean and organized for maximum productivity.",
+      "image": "https://i.ibb.co/hD85cxv/full-shot-men-cleaning-office.jpg",
+      "category": "office_cleaning",
+      "price": 85.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee85",
+      "name": "AC Assistants",
+      "details": "Assisting your AC units with thorough cleaning and maintenance.",
+      "image": "https://example.com/ac-assistants.jpg",
+      "category": "ac_extra",
+      "price": 72.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee93",
+      "name": "Toilet Tidiers",
+      "details": "Tidying up your toilets with precision and care.",
+      "image": "https://i.ibb.co/g6PW6CZ/3d-render-classic-bathroom-interior.jpg",
+      "category": "Toilet_cleaning",
+      "price": 55.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee95",
+      "name": "Septic Squad",
+      "details": "Your reliable squad for septic tank cleaning and maintenance.",
+      "image": "https://example.com/septic-squad.jpg",
+      "category": "septic_tank_cleaning",
+      "price": 145.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee9b",
+      "name": "Nature's Clean",
+      "details": "Cleaning your home using natural and organic products for a healthier environment.",
+      "image": "https://i.ibb.co/cwSFJD7/home-c7.jpg",
+      "category": "Popular_service",
+      "price": 70.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eeb7",
+      "name": "Furniture Fixers Plus",
+      "details": "Fixing and assembling furniture with extra care and attention to detail.",
+      "image": "https://example.com/furniture-fixers-plus.jpg",
+      "category": "extra",
+      "price": 50.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee9c",
+      "name": "Handy Hands-On",
+      "details": "Getting hands-on with all your household tasks to provide reliable solutions.",
+      "image": "https://example.com/handy-hands-on.jpg",
+      "category": "Handyman_service",
+      "price": 65.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee9d",
+      "name": "Office Oasis Cleaners",
+      "details": "Creating an oasis of cleanliness in your office space.",
+      "image": "https://example.com/office-oasis-cleaners.jpg",
+      "category": "extra",
+      "price": 90.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eeac",
+      "name": "AC Aces",
+      "details": "Ace cleaning and maintenance for your AC units.",
+      "image": "https://example.com/ac-aces.jpg",
+      "category": "ac_extra",
+      "price": 78.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36eeb4",
+      "name": "Toilet Techs",
+      "details": "Applying the latest technology to clean and sanitize your toilets.",
+      "image": "https://example.com/toilet-techs.jpg",
+      "category": "Toilet_extra",
+      "price": 58.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee98",
+      "name": "Septic Superstars",
+      "details": "Superstars in septic tank cleaning, ensuring top-notch service every time.",
+      "image": "https://example.com/septic-superstars.jpg",
+      "category": "septic_tank_cleaning",
+      "price": 150.00
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee82",
+      "name": "Clean Green Living",
+      "details": "Promoting clean and green living with our environmentally friendly home cleaning services.",
+      "image": "https://i.ibb.co/WxH7cjG/home-4.jpg",
+      "category": "extra",
+      "price": 75.00
+    }
+  ]
+  

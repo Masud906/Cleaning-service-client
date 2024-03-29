@@ -1,0 +1,33 @@
+[
+    {
+      "_id": "1",
+      "name": "Sparkling Homes",
+      "details": "Professional home cleaning service. We make your home shine!",
+      "rating": 5
+    },
+    {
+      "_id": "2",
+      "name": "Fresh Office Cleaners",
+      "details": "Thorough cleaning for your office space, creating a clean and productive environment.",
+      "rating": 3
+    },
+    {
+      "_id": "3",
+      "name": "AC Angels",
+      "details": "Heavenly cleaning and maintenance for your air conditioning units.",
+      "rating": 4
+    },
+    {
+      "_id": "4",
+      "name": "Tidy Toilets",
+      "details": "Thorough cleaning and sanitation of toilets and bathroom areas.",
+      "rating": 5
+    },
+    {
+      "_id": "5",
+      "name": "Handy Helpers",
+      "details": "Reliable handyman services for all your household tasks.",
+      "rating": 4
+    }
+  ]
+  

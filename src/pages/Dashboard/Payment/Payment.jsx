@@ -1,0 +1,21 @@
+import SectionTitle from "../../../components/SectionTitle/SectionTitle";
+
+const Payment = () => {
+    return (
+        <div>
+            <SectionTitle heading="payment" subHeading="Please pay to eat"></SectionTitle>
+            <div className="diff aspect-[14/6]">
+                <div className="diff-item-1">
+                    <div className="bg-green-400 text-primary-content text-9xl font-black grid place-content-center">processing</div>
+                </div>
+                <div className="diff-item-2">
+                    <div className="bg-orange-300 text-9xl font-black grid place-content-center">processing</div>
+                </div>
+                <div className="diff-resizer"></div>
+            </div>
+        </div>
+
+    );
+};
+
+export default Payment;
