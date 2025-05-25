@@ -1,6 +1,4 @@
-import {
-  createBrowserRouter,
-} from "react-router-dom";
+import { createBrowserRouter } from "react-router-dom";
 import Main from "../Layout/Main";
 import Home from "../pages/Home/Home/Home";
 import Services from "../pages/Services/Services/Services";
@@ -30,89 +28,97 @@ export const router = createBrowserRouter([
     element: <Main></Main>,
     children: [
       {
-        path: '/',
-        element: <Home></Home>
+        path: "/",
+        element: <Home></Home>,
       },
       {
-        path: 'service',
-        element: <Services></Services>
+        path: "service",
+        element: <Services></Services>,
       },
       {
-        path: 'order',
-        element: <Order></Order>
+        path: "order",
+        element: <Order></Order>,
       },
       {
-        path: 'login',
-        element: <Login></Login>
+        path: "login",
+        element: <Login></Login>,
       },
       {
-        path: 'signup',
-        element: <SignUp></SignUp>
+        path: "signup",
+        element: <SignUp></SignUp>,
       },
       {
-        path: 'secret',
-        element: <PrivateRoute><Secret></Secret></PrivateRoute>
+        path: "secret",
+        element: (
+          <PrivateRoute>
+            <Secret></Secret>
+          </PrivateRoute>
+        ),
       },
-    ]
+    ],
   },
   {
-    path: 'dashboard',
-    element: <PrivateRoute><DashBoard></DashBoard></PrivateRoute>,
+    path: "dashboard",
+    element: (
+      <PrivateRoute>
+        <DashBoard></DashBoard>
+      </PrivateRoute>
+    ),
     children: [
       //normal user
       {
-          path: 'cart',
-          element: <Cart></Cart>
+        path: "cart",
+        element: <Cart></Cart>,
       },
       {
-          path: 'userHome',
-          element: <UserHome></UserHome>
+        path: "userHome",
+        element: <UserHome></UserHome>,
       },
       {
-          path: 'reservation',
-          element: <Reservation></Reservation>
+        path: "reservation",
+        element: <Reservation></Reservation>,
       },
       {
-          path: 'mycart',
-          element: <MayCart></MayCart>
+        path: "mycart",
+        element: <MayCart></MayCart>,
       },
       {
-          path: 'review',
-          element: <Review></Review>
+        path: "review",
+        element: <Review></Review>,
       },
       {
-          path: 'bookings',
-          element: <Booking></Booking>
+        path: "bookings",
+        element: <Booking></Booking>,
       },
       {
-          path: 'payment',
-          element: <Payment></Payment>
+        path: "payment",
+        element: <Payment></Payment>,
       },
       // admin routs
       {
-          path: 'adminHome',
-          element: <AdminHome></AdminHome>
+        path: "adminHome",
+        element: <AdminHome></AdminHome>,
       },
       {
-          path: 'addItems',
-          element: <AddItems></AddItems>
+        path: "addItems",
+        element: <AddItems></AddItems>,
       },
       {
-          path: 'manageservice',
-          element: <ManageService></ManageService>
+        path: "manageservice",
+        element: <ManageService></ManageService>,
       },
       {
-          path: 'users',
-          element: <AllUsers></AllUsers>
+        path: "users",
+        element: <AllUsers></AllUsers>,
       },
       {
-          path: 'contact',
-          element: <Contact></Contact>
+        path: "contact",
+        element: <Contact></Contact>,
       },
       {
-          path: 'about',
-          element: <About></About>
-      }
-    ]
-  }
+        path: "about",
+        element: <About></About>,
+      },
+    ],
+  },
 ]);
